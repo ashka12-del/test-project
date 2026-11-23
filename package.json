@@ -1,0 +1,14 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "A local test workspace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.10"
+  }
+}
